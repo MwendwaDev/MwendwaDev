@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi there 👋 Mwendwa Bundi Emma here.
 
 
-- 🔭 I’m currently working on building new personal projects
-- 🌱 I’m currently exploring more about frontend
-- 👯 I’m looking to collaborate on frontend roles and technical writing
-- 🤔 I’m looking land technical writing roles and frontend roles as well
+- 🔭 I am a front-end developer and technical writer
+- 🌱 I’m currently exploring more about front-end
+- 🤔 I’m also looking land technical writing roles and frontend roles as well
 - 💬 Ask me about anything JavaScript and React
 - 📫 How to reach me: mwendwadev@gmail.com
 - I'm an author at FreeCode Camp and I write tutorials on [JavaScript and React here](https://www.freecodecamp.org/news/author/mwendwabundiemma/)
