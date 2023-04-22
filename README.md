@@ -13,5 +13,4 @@
 - [Cloud DLP: What It Is and Why It’s Needed](https://www.traceable.ai/blog-post/cloud-dlp-why-it-matters)
 - [How to Render Lists in React using array.map()](https://www.freecodecamp.org/news/how-to-render-lists-in-react/)
 - [10+ Live Chat Widgets for Ecommerce Stores in 2023](https://medusajs.com/blog/13-live-chat-widgets-for-ecommerce-stores-in-2023/)
-- ⚡ Fun fact: When I'm not programming I'm reading a book, watching a movie and most likely catching up with world politics
-
+- ⚡ Fun fact: Nah! I really wouldn't say that I'm funny. 
